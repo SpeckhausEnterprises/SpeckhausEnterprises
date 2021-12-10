@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpeckhausEnterprises
-- 👀 We are a small tech comany out to change the world
+- 👀 We are a small tech company out to change the world
 - 📫 How to reach me ...speckhaus2021@gmail.com
 
 <!---
